@@ -11,7 +11,11 @@ body {
   overflow: hidden; }
 
 .container {
-  background-color: #777; }
+  background-color: #cfc9c9;
+  margin-top: 5rem; }
 
 .container-fluid {
   background-color: gold; }
+
+[class*=col] {
+  border: 2px solid #dc3545; }
