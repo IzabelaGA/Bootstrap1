@@ -11,6 +11,7 @@ body {
   overflow: hidden; }
 
 .container {
-  background-color: #666; }
-  .container .container-fluid {
-    background-color: gold; }
+  background-color: #777; }
+
+.container-fluid {
+  background-color: gold; }
