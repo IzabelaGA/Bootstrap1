@@ -25,3 +25,9 @@ section {
 
 ul {
   text-align: left; }
+
+img.float-right {
+  margin: .5rem 0 0rem 1.5rem; }
+
+[class*=col] {
+  padding: .25rem; }
