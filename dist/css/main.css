@@ -22,3 +22,6 @@ section {
   color: #76db76; }
   section [class*=h] {
     color: #eeee; }
+
+ul {
+  text-align: left; }
