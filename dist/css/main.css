@@ -50,3 +50,9 @@ img.float-right {
   height: 5rem;
   border-radius: .5rem;
   margin: 1rem; }
+
+.displ {
+  margin: 1rem; }
+  .displ div {
+    background: #4dbb8f;
+    padding: .5rem 1rem; }
