@@ -20,7 +20,7 @@ body {
 
 section {
   color: #76db76; }
-  section [class*=h] {
+  section .h1 {
     color: #eeee; }
 
 ul {
@@ -56,3 +56,11 @@ img.float-right {
   .displ div {
     background: #4dbb8f;
     padding: .5rem 1rem; }
+
+.sec {
+  height: 5rem; }
+  .sec .inside {
+    height: 10rem;
+    background-color: lightblue; }
+  .sec section.photo {
+    height: 30vh; }
