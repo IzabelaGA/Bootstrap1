@@ -57,10 +57,9 @@ img.float-right {
     background: #4dbb8f;
     padding: .5rem 1rem; }
 
-.sec {
-  height: 5rem; }
-  .sec .inside {
-    height: 10rem;
-    background-color: lightblue; }
-  .sec section.photo {
-    height: 30vh; }
+.sec .inside {
+  height: 10rem;
+  background-color: lightblue; }
+
+.sec section.photo {
+  height: 30vh; }
